@@ -1,0 +1,12 @@
+{
+    "name": "alpenedv/info",
+    "description": "AlpenEDV",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Andreas Erhard",
+            "email": "andreas@alpenedv.at"
+        }
+    ]
+}
